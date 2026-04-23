@@ -5,10 +5,10 @@ __pycache__/
 .env
 
 # Config (use config-sample.py as reference)
-config.py
+config*.py
 
 # Scraper output
-posts.json
+posts*.json
 
 # Node
 scrollify-ui-ts/node_modules/
