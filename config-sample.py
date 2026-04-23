@@ -1,0 +1,1 @@
+subreddits = ["pics", "EarthPorn", "itookapicture"]

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Config (use config-sample.py as reference)
+config.py
+
+# Scraper output
+posts.json
+
+# Node
+scrollify-ui-ts/node_modules/
+scrollify-ui-ts/dist/
+scrollify-ui-ts/.env
+scrollify-ui-ts/.env.local
+
+# Vite
+scrollify-ui-ts/.vite/
+
+# OS
+.DS_Store
+Thumbs.db
